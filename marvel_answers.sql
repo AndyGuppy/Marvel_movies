@@ -23,5 +23,5 @@ UPDATE people SET name = 'Andy Guppy' WHERE name = 'Andrew Guppy';
 -- in answer to question 8
 INSERT INTO movies (title, year, show_time) VALUES ('Guardians of the Galaxy 2', 2016, '00:00');
 
--- in answer to question 
+-- in answer to question 9
 UPDATE movies SET show_time = '21:30' WHERE title = 'Guardians of the Galaxy';
